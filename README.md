@@ -1,7 +1,8 @@
 ## BIG DISCLAIMER
 Out of the 10 pcbs I ordered, 2 don't work!\
 I don't recommend anyone use these files for production in their current state, proceed at your own risk.\
-The purpose of this repo is to document this keyboards existence, this is meant to be a one-off board for me and I don't intend to make another (hopefully fixed) version in the near future so unfortunately it is stuck in this kind of not working state.
+I don't have the tecnical knowledge to look at the kicad files and decide what the problem with them is or decide that they are fine and there was some a strange problem with manufacturing. While 2 don't work 8 of them do seem to fully work as intended, which frankly does not make sense to me!\
+The purpose of this repo is to document this keyboards existence, this is meant to be a one-off board for me and I don't intend to make a revision in the near future so unfortunately it is stuck in this kind of not working state.
 
 im summary:
 DON'T USE THESE FILES THEY MAY BE BROKEN IN UNKNOWN WAYS
