@@ -2,8 +2,7 @@
 Out of the 10 pcbs I ordered, 2 simply don't work!\
 I don't know enough about pcb manufacturing or kicad to determine what went wrong or if this is my fault.\
 I'm not responsible if you use these files and they don't work, you have been warned.
-
-
+ 
 
 ## CNC alu case
 case designed for CNC manufacturing featuring a 23mm height, no angle, [geon tadpole](https://geon.works/products/tadpole?variant=42514434621603) mount and [SKUF](https://github.com/Zambumon/SKUF) feet
