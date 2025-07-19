@@ -1,0 +1,3 @@
+this plate/case has too many tadpole mounting points that definitely don't all need to be used, position and number can be adjusted to fit personal preference\\
+I feel compelled to mention I have no idea if this simplistic approach is actually how tadpole mounted boards are usually designed, but at least it's not causing any problems for me if I did something wrong!\\
+the original file I submitted to CNC manufacturing was actually not able to be manufactured due to internal corners not being rounded, the new file should fix this, but I can't really be sure, both files are included
