@@ -6,10 +6,9 @@ I'm not responsible if you use these files and they don't work, you have been wa
 
 ## CNC alu case
 case designed for CNC manufacturing featuring a 23mm height, no angle, [geon tadpole](https://geon.works/products/tadpole?variant=42514434621603) mount and [SKUF](https://github.com/Zambumon/SKUF) feet
-![](pictures/cnc1.jpg)\
+![](pictures/p1.jpg)\
 ![](pictures/cnc2.jpg)\
 ![](pictures/cnc3.jpg)\
-![](pictures/cnc4.jpg)
 
 ## 3DP case
 ![](pictures/3dp1.jpg)
